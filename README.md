@@ -12,19 +12,19 @@ Univesidad de Granada
 
 **Autor(es)** Nahia Martínez Gondra
 
-**Resumen** : _________
+**Resumen** : Proyecto experimental sobre las diferentes percepciones en torno a la lluvia. De manera cercana y testimonial se escuchan los sentimientos que la lluvia evoca en diversas personas. 
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): ¿Qué sentimientos despierta la lluvía en tí?
 
-**Hashtag**  ___
+**Hashtag**  #cuandofuerallueve
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2022
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): webdoc en formato podcast
 
 
 *  :octocat: (github url) 
