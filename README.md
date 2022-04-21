@@ -23,18 +23,18 @@ Univesidad de Granada
 
 **Slogan** : ¿Qué sentimientos despierta la lluvía en tí?
 
-**Hashtag**  #cuandofuerallueve
+**Hashtag** : #cuandofuerallueve
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**: CC BY-NC
 
 **Fecha** : 2022
 
-**Medios** (donde se tiene presencia): webdoc en formato podcast
+**Medios**:
 
 
 *  :octocat: (github url) 
-* Twitter 
-* ... 
+* La app donde se desarrollará el webdoc en formato podcast
+* Twitter e Instagram. Estas redes sociales expandirán el contenido y facilitará la bidireccionalidad con la audiencia. 
 
 
 
