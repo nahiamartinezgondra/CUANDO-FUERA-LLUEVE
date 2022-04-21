@@ -12,7 +12,7 @@ Univesidad de Granada
 
 **Autor(es)** Nahia Martínez Gondra
 
-**Resumen** : Proyecto experimental sobre las diferentes percepciones en torno a la lluvia. De manera cercana y testimonial se escuchan los sentimientos que la lluvia evoca en diversas personas. 
+**Resumen** : Proyecto experimental sobre las diferentes percepciones en torno a la lluvia. De manera cercana y testimonial se escuchan los sentimientos que la lluvia evoca en diversas personas. Se trata de un reportaje en formato podcast donde el usuario explora las diferentes emociones que las personas sienten cuando llueve. 
 
 **logotipo** :  ________
 
