@@ -85,8 +85,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 * Problemas identificados: quizás la temática de la lluvia no despierte el interés esperado. Por ello, habría que crear un buen plan de promoción y marketing además del buen uso de las redes sociales para atraer a la audiencia el proyecto "Cuando fuera llueve".
-* Propuestas de mejora: siguiendo el ejemplo del podcast "De eso no se habla" se podrían incluir vivencias más impactantes y diferentes relacionadas con la lluvia para que más allá de lo experimental el proyecto tambiémn cumpliese con un objetivo social y de cambio. 
-* Posible interés del proyecto: en relación con lo anterior, podrían colaborar en el proyecto asociaciones que luchan contra la sequía u otros proyectos que tengan relación con la problemática de la escasez de lluvia. Además, también podría colaborar con gente artista, como del ámbito de la música, dada la relación con lo sonoro, o poétas, ahondando más en ese aspecto de vulnerabilidad. Al ser un proyecto con tantas opciones, pueden surgir muchas colaboraciones teniendo siempre en el eje de partida la lluvia. 
+* Propuestas de mejora: siguiendo el ejemplo del podcast "De eso no se habla" se podrían incluir vivencias más impactantes y diferentes relacionadas con la lluvia para que más allá de lo experimental, el proyecto también cumpliese un objetivo social y de cambio. 
+* Posible interés del proyecto: en relación con lo anterior, podrían colaborar en el proyecto asociaciones que luchen contra la sequía u otros proyectos que tengan relación con la problemática de la escasez de lluvia. Además, también podría colaborar con gente artista, cdel ámbito de la música, dada la relación con lo sonoro, o poétas, ahondando más en ese aspecto de vulnerabilidad de los sentimientos. Al ser un proyecto con tantas opciones, pueden surgir muchas colaboraciones teniendo siempre en el eje de partida la lluvia. 
 
 
 
