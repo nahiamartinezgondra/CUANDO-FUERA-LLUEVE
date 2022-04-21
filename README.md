@@ -14,7 +14,8 @@ Univesidad de Granada
 
 **Resumen** : Proyecto experimental sobre las diferentes percepciones en torno a la lluvia. De manera cercana y testimonial se escuchan los sentimientos que la lluvia evoca en diversas personas. Se trata de un reportaje en formato podcast donde el usuario explora las diferentes emociones que las personas sienten cuando llueve. 
 
-**logotipo** :  ![CUANDO FUERA LLUEVE LOGOTIPO](https://user-images.githubusercontent.com/102685836/164441716-fc88fc57-6ec0-428d-9c78-197318161e1f.png)
+**logotipo** : 
+![CUANDO FUERA LLUEVE LOGOTIPO](https://user-images.githubusercontent.com/102685836/164441716-fc88fc57-6ec0-428d-9c78-197318161e1f.png)
 
 
 **Slogan** (frase motivadora/inspiradora): ¿Qué sentimientos despierta la lluvía en tí?
