@@ -55,30 +55,23 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * 
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** : La lluvia es una realidad presente en la vida de la mayoría de las personas. Cuando llueve, muchas veces molesta, otras veces alegra, otras alivia... todo depente de las circunstancias de cada persona. Por medio de la lluvia, este proyecto quiere conocer las historias y los sentimientos que se esconden tras ella. Es una necesidad hablar desde la vulnerabilidad de la realidad que nos rodea, y también una oportunidad para conocer otras vivencias. Además, más allá de lo poético y de lo experimental de este trabajo, también surgen problemáticas como la sequía o el exceso de lluvia. La lluvia es una realidad de la que todas las personas somos parte. 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta**: Considero importante mi proyecto porque nadie se para a pensar en el por qué de la lluvia. No se reflexiona sobre los sentimientos que esta despierta, y la mayoría de las veces se suele relacionar como un impedimento o como algo negativo. Este proyecto es original por que trata de dar la vuelta al concepto de lluvia para indagar en las historias que se encuentran tras ella. 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**: Mi publico objetivo serían personas de entre 18-35 años, personas que deben tomar muchas decisiones en torno a su vida en un ambiente cambiante: universidad, primeros trabajos, decisiones en torno a la vivienda, estilo de vida... pienso que ese target es el que se mostraría más vulnerable e interesado en torno a testimonios de otras vivencias, ya que mi público objetivo también serían personas sensibles y reflexivas, conscientes de sus propios sentimientos. Aun así, como he mencionado antes, es un proyecto que va dirigido a un público general que cualquier persona puede disfrutar. 
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
-
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+**Estilo de narración**: La narración se efectuará por medio de diferentes podcast asociados a sentimientos. De manera que se efectuará de forma muy directa y sencilla, con una navegación muy intuitiva que facilitará el UX de la persona usuaria. 
 
 
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
-
-* publicidad: banner (... ) 
+* Para la etapa de prototipación se ha hecho uso de las aplicaciones Storyboarder y Protopie. Por medio de esas aplicaciones se han desarrollado las principales páginas que poseería el webdoc en formato podcast. La idea sería incluir las fotografías de las personas entrevistadas antes de acceder a su testimonio y añadir otra pestaña donde la persona usuaria pudiese enviar un audio para narrar lo que para ella es la lluvia. Además, se añadiría alguna imagen en relación a lo que se esta escuchando a medida que vaya trascurrendo el audio, de modo que aunque el proyecto sea mayoritariamente sonoro también tuviese un refuerzo visual. 
+* En cuanto a las redes sociales, como se ha comentado anteriormente, se crearían perfiles de Instagram y Twitter para aumentar el feedback con la audiencia. Además, también sería una via par fidelizar a las personas usuarias. 
+*  
 
 * ...
 
