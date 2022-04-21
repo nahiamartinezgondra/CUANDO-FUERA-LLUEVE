@@ -69,19 +69,15 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 
-* Para la etapa de prototipación se ha hecho uso de las aplicaciones Storyboarder y Protopie. Por medio de esas aplicaciones se han desarrollado las principales páginas que poseería el webdoc en formato podcast. La idea sería incluir las fotografías de las personas entrevistadas antes de acceder a su testimonio y añadir otra pestaña donde la persona usuaria pudiese enviar un audio para narrar lo que para ella es la lluvia. Además, se añadiría alguna imagen en relación a lo que se esta escuchando a medida que vaya trascurrendo el audio, de modo que aunque el proyecto sea mayoritariamente sonoro también tuviese un refuerzo visual. 
+* Para la etapa de prototipación se ha hecho uso de las aplicaciones Storyboarder y Protopie. Por medio de esas aplicaciones se han desarrollado las principales páginas que poseería el webdoc en formato podcast. La idea sería incluir las fotografías de las personas entrevistadas antes de acceder a su testimonio y añadir otra pestaña donde la persona usuaria pudiese enviar un audio para narrar lo que para ella es la lluvia. Además, se añadiría alguna imagen en relación a lo que se esta escuchando a medida que vaya trascurrendo el audio, de modo que aunque el proyecto sea mayoritariamente sonoro también tuviese un refuerzo visual. El enlace al prototipo del proyecto: https://cloud.protopie.io/p/eaffe182b5
 * En cuanto a las redes sociales, como se ha comentado anteriormente, se crearían perfiles de Instagram y Twitter para aumentar el feedback con la audiencia. Además, también sería una via par fidelizar a las personas usuarias. 
-*  
 
-* ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
+* Para la evaluación de mi propuesta realizaría un test para saber la opinión de las personas participantes. 
 
 
 
@@ -89,19 +85,10 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Problemas identificados: quizás la temática de la lluvia no despierte el interés esperado. Por ello, habría que crear un buen plan de promoción y marketing además del buen uso de las redes sociales para atraer a la audiencia al proyecto "Cuando fuera llueve".
+* Propuestas de mejora: siguiendo el ejemplo del podcast "De eso no se habla" se podrían incluir vivencias más impactantes y diferentes relacionadas con la lluvia para que más allá de lo experimental el proyecto tambiémn cumpliese con un objetivo social y de cambio. 
+* Posible interés del proyecto: en relación con lo anterior, podrían colaborar en el proyecto asociaciones que luchan contra la sequía u otros proyectos que tengan relación con la problemática de la escasez de lluvia. Además, también podría colaborar con gente artista, como del ámbito de la música, dada la relación con lo sonoro, o poétas, ahondando más en ese aspecto de vulnerabilidad. Al ser un proyecto con tantas opciones, pueden surgir muchas colaboraciones teniendo siempre en el eje de partida la lluvia. 
 
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
 
 
 
