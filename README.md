@@ -58,7 +58,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Motivación de la propuesta**: Considero importante mi proyecto porque nadie se para a pensar en el por qué de la lluvia. No se reflexiona sobre los sentimientos que esta despierta, y la mayoría de las veces se suele relacionar como un impedimento o como algo negativo. Este proyecto es original por que trata de dar la vuelta al concepto de lluvia para indagar en las historias que se encuentran tras ella. 
 
-**Personas/Usuarios**: Mi publico objetivo serían personas de entre 18-35 años, personas que deben tomar muchas decisiones en torno a su vida en un ambiente cambiante: universidad, primeros trabajos, decisiones en torno a la vivienda, estilo de vida... pienso que ese target es el que se mostraría más vulnerable e interesado en torno a testimonios de otras vivencias, ya que mi público objetivo también serían personas sensibles y reflexivas, conscientes de sus propios sentimientos. Aun así, como he mencionado antes, es un proyecto que va dirigido a un público general que cualquier persona puede disfrutar. 
+**Personas/Usuarios**: Mi publico objetivo serían personas de entre 18-35 años, personas que deben tomar muchas decisiones en torno a su vida en un ambiente cambiante: universidad, primeros trabajos, decisiones en torno a la vivienda, estilo de vida... pienso que ese target es el que se mostraría más vulnerable e interesado en torno a testimonios de otras vivencias, ya que mi público objetivo también serían personas sensibles y reflexivas, conscientes de sus propios sentimientos y empáticas al resto. Aun así, como he mencionado antes, es un proyecto que va dirigido a un público general que cualquier persona puede disfrutar. 
 
 **Estilo de narración**: La narración se efectuará por medio de diferentes podcast asociados a sentimientos. De manera que se efectuará de forma muy directa y sencilla, con una navegación muy intuitiva que facilitará el UX de la persona usuaria. 
 
@@ -84,7 +84,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 ### Conclusiones y trabajo futuro
 
 
-* Problemas identificados: quizás la temática de la lluvia no despierte el interés esperado. Por ello, habría que crear un buen plan de promoción y marketing además del buen uso de las redes sociales para atraer a la audiencia al proyecto "Cuando fuera llueve".
+* Problemas identificados: quizás la temática de la lluvia no despierte el interés esperado. Por ello, habría que crear un buen plan de promoción y marketing además del buen uso de las redes sociales para atraer a la audiencia el proyecto "Cuando fuera llueve".
 * Propuestas de mejora: siguiendo el ejemplo del podcast "De eso no se habla" se podrían incluir vivencias más impactantes y diferentes relacionadas con la lluvia para que más allá de lo experimental el proyecto tambiémn cumpliese con un objetivo social y de cambio. 
 * Posible interés del proyecto: en relación con lo anterior, podrían colaborar en el proyecto asociaciones que luchan contra la sequía u otros proyectos que tengan relación con la problemática de la escasez de lluvia. Además, también podría colaborar con gente artista, como del ámbito de la música, dada la relación con lo sonoro, o poétas, ahondando más en ese aspecto de vulnerabilidad. Al ser un proyecto con tantas opciones, pueden surgir muchas colaboraciones teniendo siempre en el eje de partida la lluvia. 
 
